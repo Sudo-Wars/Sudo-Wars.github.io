@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?> 
+     <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5"> 
+       <versionNumber>1.1</versionNumber> 
+       <url>http://sudo-wars.github.io/updates/SudoWire_1.1.air</url> 
+       <description>This is the latest version of SudoWire.</description> 
+    </update>
+
