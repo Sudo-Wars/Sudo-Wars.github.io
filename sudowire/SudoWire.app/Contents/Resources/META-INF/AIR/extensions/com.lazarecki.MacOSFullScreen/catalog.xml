@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+    <versions>
+        <swc version="1.2"/>
+        <compiler name="ActionScript Compiler" version="2.0.0" build="354110"/>
+    </versions>
+    <features>
+        <feature-script-deps/>
+    </features>
+    <libraries>
+        <library path="library.swf">
+            <script name="com/lazarecki/MacOSFullScreenANE" mod="1421841390000">
+                <def id="com.lazarecki:MacOSFullScreenANE"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Error" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="trace" type="e"/>
+            </script>
+            <digests>
+                <digest type="SHA-256" signed="false" value="336dcbc25f4d63d3f888a3288f89c15e9310ace23a48d05de4e510180b24de39"/>
+            </digests>
+        </library>
+    </libraries>
+</swc>
